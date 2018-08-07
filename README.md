@@ -1,8 +1,9 @@
-# Abishek Murali
+# Abishek Murali [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/abimojo)
+
 
 ![](https://avatars2.githubusercontent.com/u/14052278?s=460&v=4)
 
-*Data scientist; Graduate from UBC, Vancouver; Exploring the use of statistics in sports analytics*
+*Data scientist; Graduated in Masters of Data science from [UBC, Vancouver](https://masterdatascience.science.ubc.ca/); Exploring the use of statistics in sports analytics*
 
 ## Collection of my projects on Github
 

@@ -5,7 +5,7 @@
 
 *Data scientist; Graduated in Masters of Data science from [UBC, Vancouver](https://masterdatascience.science.ubc.ca/); Exploring the use of statistics in sports analytics*
 
-*You can check out my blogs here, at [mojospeaks](http://mojospeaks.ml)*
+*You can check out my blog posts here, at [mojospeaks](http://mojospeaks.ml)*
 
 ## Collection of my projects on Github
 
